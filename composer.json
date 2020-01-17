@@ -1,0 +1,17 @@
+{
+  "name": "agrigorenko/328/pets",
+  "authors": [
+    {
+      "name": "Alex Grigorenko",
+      "email": "agrigorenko@mail.greenriver.edu"
+    },
+    {
+      "name": "Marcos Rivera",
+      "email": "mrivera22@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+
+}
